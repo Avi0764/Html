@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> avinash</title>
+    </head>
+    <body>
+    <img ="C:\Users\avina\OneDrive\Pictures\picavi.jpg">    
+    </body>
+    
+</html>
